@@ -1,0 +1,21 @@
+form{
+    width: 100%;
+    height: 100%;
+}
+label{
+    display: flex;
+    align-self: left;
+    color: rgb(34, 90, 1);
+}
+input{
+    display: flex;
+    align-self: left;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 20px;
+    border-color: rgb(86, 165, 41);
+    background-color: rgb(166, 212, 139);
+}
+h2{
+    color: rgb(34, 90, 1);
+}

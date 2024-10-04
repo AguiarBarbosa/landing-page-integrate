@@ -1,0 +1,17 @@
+header{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    border-bottom: 1px solid;
+}
+.title{
+    align-self: left;
+    display: flex;
+    font-size: 40px;
+}
+.boxTitle{
+    padding-left: 50px;
+    font-size: 20px;
+}
